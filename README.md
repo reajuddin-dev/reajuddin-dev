@@ -365,19 +365,29 @@ Currently learning React.js while improving JavaScript and frontend development 
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="45"> ❖ GitHub Analytics ❖ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="45">
 
-<img width="60%" src="https://streak-stats.demolab.com?user=reajuddin-dev&theme=react&hide_border=true&background=0a0a0a&stroke=0a0a0a&fire=ff014f&sideLabels=FFFFFF&currStreakNum=ff014f&ring=ff014f&currStreakLabel=ff014f&sideNums=FFFFFF&dates=ff014f" />
+<img
+  width="60%"
+  src="https://streak-stats.demolab.com?user=reajuddin-dev&theme=react&hide_border=true&background=0a0a0a&stroke=0a0a0a&fire=ff014f&sideLabels=FFFFFF&currStreakNum=ff014f&ring=ff014f&currStreakLabel=ff014f&sideNums=FFFFFF&dates=ff014f"
+/>
 
-<br><br>
+<br>
+<img
+  width="49%"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=reajuddin-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=ff014f&icon_color=ff014f&text_color=ffffff&count_private=true&include_all_commits=true"
+/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=reajuddin-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=ff014f&icon_color=ff014f&text_color=ffffff"/>
+<br>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reajuddin-dev&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=ff014f&text_color=ffffff"/>
-
-<br><br>
-
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=reajuddin-dev&bg_color=0a0a0a&color=ff014f&line=ff014f&point=ffffff&area=true&area_color=2a000d&hide_border=true)](https://github.com/reajuddin-dev)
+<a href="https://github.com/reajuddin-dev">
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=reajuddin-dev&bg_color=0a0a0a&color=ff014f&line=ff014f&point=ffffff&area=true&area_color=2a000d&hide_border=true"
+  />
+</a>
 
 </div>
+
+---
 
 ---
 
@@ -427,11 +437,11 @@ Currently learning React.js while improving JavaScript and frontend development 
 <img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=firefox&logoColor=ff014f"/>
 </a>
 
-<a href="https://linkedin.com/in/your-profile">
+<a href="https://linkedin.com/in/reajuddin-dev">
 <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=ff014f"/>
 </a>
 
-<a href="https://facebook.com/your-profile">
+<a href="https://facebook.com/reajuddinabdullah">
 <img src="https://img.shields.io/badge/Facebook-0a0a0a?style=for-the-badge&logo=facebook&logoColor=ff014f"/>
 </a>
 
