@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Cinzel+Decorative&weight=700&size=22&duration=3000&pause=1000&color=ff014f&center=true&vCenter=true&width=750&lines=✦+Frontend+Web+Developer+✦;✦+WordPress+Developer+✦;✦+Building+Fast+%26+Modern+Websites+✦;✦+Learning+React.js+✦;✦+Always+Learning+New+Technologies+✦" />
+<img src="https://readme-typing-svg.demolab.com/?font=Cinzel+Decorative&weight=700&size=22&duration=3000&pause=1000&color=ff014f&center=true&vCenter=true&width=750&lines=%E2%9C%A6+Frontend+Web+Developer+%E2%9C%A6;%E2%9C%A6+WordPress+Developer+%E2%9C%A6;%E2%9C%A6+Building+Fast+%26+Modern+Websites+%E2%9C%A6;%E2%9C%A6+Learning+React.js+%E2%9C%A6;%E2%9C%A6+Always+Learning+New+Technologies+%E2%9C%A6" />
 
 <br><br>
 
