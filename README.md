@@ -10,19 +10,19 @@
 
 <p align="center">
 
-<a href="https://your-portfolio.com">
+<a href="https://your-portfolio.com" target="_blank" rel="noopener noreferrer" >
 <img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=todoist&logoColor=ff014f"/>
 </a>
 
-<a href="https://linkedin.com/in/reajuddin-dev">
+<a href="https://linkedin.com/in/reajuddin-dev" target="_blank" rel="noopener noreferrer" >
 <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=ff014f"/>
 </a>
 
-<a href="https://facebook.com/reajuddinabdullah">
+<a href="https://facebook.com/reajuddinabdullah" target="_blank" rel="noopener noreferrer" >
 <img src="https://img.shields.io/badge/Facebook-0a0a0a?style=for-the-badge&logo=facebook&logoColor=ff014f"/>
 </a>
 
-<a href="mailto:mdreaj.abdullahshak@gmail.com">
+<a href="mailto:mdreaj.abdullahshak@gmail.com" target="_blank" rel="noopener noreferrer" >
 <img src="https://img.shields.io/badge/Send%20Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=ff014f"/>
 </a>
 
