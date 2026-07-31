@@ -482,7 +482,10 @@ If you like my projects, please consider giving them a ⭐ on GitHub.
 It motivates me to build more useful projects and contribute to the developer community.
 
 </div>
-
 <br>
 
+<div align="center">
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a000d,50:1a0005,100:0a0a0a&height=120&section=footer&text=Thanks%20for%20Visiting&fontSize=22&fontAlignY=75&fontColor=ff014f&animation=fadeIn"/>
+
+</div>
